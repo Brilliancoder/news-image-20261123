@@ -1,6 +1,6 @@
 # news-image-20261123
 
-[![make.fun](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123) [![rank](https://make.fun/badge/news-image-20261123/Brilliancoder/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123) [![reward](https://make.fun/badge/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123)
+[![make.fun](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123) [![rank](https://make.fun/badge/news-image-20261123/Brilliancoder/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123) [![reward](https://make.fun/badge/news-image-20261123/Brilliancoder/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123)
 
 Entry for the make.fun bounty **news-image-20261123**: the world's news of
 Monday 23 November 2026 in one 1024x1024 image.
